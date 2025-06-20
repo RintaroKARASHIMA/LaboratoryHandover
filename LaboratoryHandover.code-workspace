@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../shs"
+		},
+		{
+			"path": "../Archive"
+		}
+	],
+	"settings": {}
+}
