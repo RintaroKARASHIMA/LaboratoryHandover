@@ -1,0 +1,8 @@
+.venv/*
+.code-workspace*
+*logs/*
+tests/logs/*
+*__pycache__*
+*archive/*
+.envrc
+env.sh
