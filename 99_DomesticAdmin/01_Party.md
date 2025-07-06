@@ -130,6 +130,19 @@ sequenceDiagram
 
 ## A2. お店 DB
 
+| 店名 | 場所 | ジャンル | 席数 | 価格帯 | URL |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [刺身・おでん・串カツ 高架下酒場あし跡 三宮店](https://www.hotpepper.jp/strJ001215887/?vos=nhppalsa000016) | 神戸 | 居酒屋 | 88席 | 2001～3000円 | https://www.hotpepper.jp/strJ001215887/?vos=nhppalsa000016 |
+| [ワインと低温調理肉のビストロ CUReHA 神戸三宮](https://www.hotpepper.jp/strJ000768636/?vos=nhppalsa000016) | 神戸 | イタリアン・フレンチ | 73席 | 3001～4000円 | https://www.hotpepper.jp/strJ000768636/?vos=nhppalsa000016 |
+| [旨唐揚げと居酒メシ 居酒屋 ミライザカ 三宮店](https://www.hotpepper.jp/strJ001161436/?vos=nhppalsa000016) | 神戸 | 居酒屋 | 144席 | 2001～3000円 | [https://www.hotpepper.jp/strJ001161436/?vos=nhppalsa000016](https://www.hotpepper.jp/strJ001161436/?vos=nhppalsa000016) |
+| [魚貝・鶏料理・日本酒 とよ新](https://www.hotpepper.jp/strJ001217041/?vos=nhppalsa000016) | 神戸 | 居酒屋 | 64席 | 3001～4000円 | https://www.hotpepper.jp/strJ001217041/?vos=nhppalsa000016 |
+| [兵庫県連携協定店 ひょうご五国ワールド 神戸三宮横丁](https://www.hotpepper.jp/strJ001223589/?vos=nhppalsa000016) | 神戸 | 居酒屋 | 160席 | 2001～3000円 | [https://www.hotpepper.jp/strJ001223589/?vos=nhppalsa000016](https://www.hotpepper.jp/strJ001223589/?vos=nhppalsa000016) |
+| [魚 駅前 サンキタ総本店 (さかな えきまえ)](https://www.hotpepper.jp/strJ001227395/?vos=nhppalsa000016) | 神戸 | 居酒屋 | 80席 | 2001～3000円 | [https://www.hotpepper.jp/strJ001227395/?vos=nhppalsa000016](https://www.hotpepper.jp/strJ001227395/?vos=nhppalsa000016) |
+| [完全個室 焼肉食べ放題 牛牛 ぎゅうぎゅう ☆彡パラダイス 三宮](https://www.hotpepper.jp/strJ003298698/?vos=nhppalsa000016) | 神戸 | 焼肉・ホルモン | 48席 | 3001～4000円 | [https://www.hotpepper.jp/strJ003298698/?vos=nhppalsa000016](https://www.hotpepper.jp/strJ003298698/?vos=nhppalsa000016) |
+| [海鮮 寿司 焼き鳥 肉 もつ鍋 食べ飲み放題 完全個室居酒屋 あきみつ 三宮本店](https://www.hotpepper.jp/strJ003532301/?vos=nhppalsa000016) | 神戸 | 居酒屋 | 120席 | 2001～3000円 | https://www.hotpepper.jp/strJ003532301/?vos=nhppalsa000016 |
+| [サムギョプサル×食べ飲み放題×個室貸切宴会 韓国居酒屋 Eng 炎 神戸三宮本店](https://www.hotpepper.jp/strJ000023138/?vos=nhppalsa000016) | 神戸 | 韓国料理 | 34席 | 3001～4000円 | [https://www.hotpepper.jp/strJ000023138/?vos=nhppalsa000016](https://www.hotpepper.jp/strJ000023138/?vos=nhppalsa000016) |
+| [九州料理&和牛もつ鍋×完全個室 居酒屋 蔵～ＫＵＲＡ～](https://www.hotpepper.jp/strJ001203660/?vos=nhppalsa000016) | 神戸 | 居酒屋 | 200席 | 2001～3000円 | [https://www.hotpepper.jp/strJ001203660/?vos=nhppalsa000016](https://www.hotpepper.jp/strJ001203660/?vos=nhppalsa000016) |
+| [全席完全個室居酒屋 博多焼き鳥 野菜巻き 和ノ音 神戸三宮駅前店](https://www.hotpepper.jp/strJ003649317/?vos=nhppalsa000016) | 神戸 | 居酒屋 | 204席 | 2001～3000円 | [https://www.hotpepper.jp/strJ003649317/?vos=nhppalsa000016](https://www.hotpepper.jp/strJ003649317/?vos=nhppalsa000016) |
 
 
 ## A3. メッセージのテンプレ
